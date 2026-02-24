@@ -17,3 +17,5 @@ This is code for the RoboSub Sub for the RoboNations RoboSub Competition.
 1. main: Stable/LTS Release Code.
 2. dev: Development main branch.
      1. All branching and merging happens here.
+3. zedcamera_rewrite: ZedCamera and VisionCamera coding
+4. 
